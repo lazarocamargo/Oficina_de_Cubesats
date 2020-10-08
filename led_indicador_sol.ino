@@ -1,8 +1,8 @@
-# Oficina Virtual de Cubesats
-# SNCT 2020 
-# Lazaro Camargo (lazaro.camargo@inpe.br)
+// Oficina Virtual de Cubesats
+// SNCT 2020 
+// Lazaro Camargo (lazaro.camargo@inpe.br)
 
-# Teste do Led indicador de Sol
+// Teste do Led indicador de Sol
 
 int led_indicador_sol = 11;
 
